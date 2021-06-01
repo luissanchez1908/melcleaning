@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/melcleaning/static/css/main.d7c980d4.chunk.css",
+    "main.css": "/melcleaning/static/css/main.3dd63ccb.chunk.css",
     "main.js": "/melcleaning/static/js/main.d31a3f94.chunk.js",
     "main.js.map": "/melcleaning/static/js/main.d31a3f94.chunk.js.map",
     "runtime-main.js": "/melcleaning/static/js/runtime-main.38280506.js",
@@ -8,14 +8,14 @@
     "static/js/2.75908c9f.chunk.js": "/melcleaning/static/js/2.75908c9f.chunk.js",
     "static/js/2.75908c9f.chunk.js.map": "/melcleaning/static/js/2.75908c9f.chunk.js.map",
     "index.html": "/melcleaning/index.html",
-    "static/css/main.d7c980d4.chunk.css.map": "/melcleaning/static/css/main.d7c980d4.chunk.css.map",
+    "static/css/main.3dd63ccb.chunk.css.map": "/melcleaning/static/css/main.3dd63ccb.chunk.css.map",
     "static/js/2.75908c9f.chunk.js.LICENSE.txt": "/melcleaning/static/js/2.75908c9f.chunk.js.LICENSE.txt",
     "static/media/HeroSection.css": "/melcleaning/static/media/img-2.200cabd2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.38280506.js",
     "static/js/2.75908c9f.chunk.js",
-    "static/css/main.d7c980d4.chunk.css",
+    "static/css/main.3dd63ccb.chunk.css",
     "static/js/main.d31a3f94.chunk.js"
   ]
 }
