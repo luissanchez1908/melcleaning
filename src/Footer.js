@@ -24,7 +24,7 @@ function Footer() {
               target='_blank'
               aria-label='Facebook'
             >
-                <a href="https://facebook.com"><i class='fab fa-facebook-f' /></a>
+                <a href="https://www.facebook.com/people/Mel-Cleaning/100068896783682/"><i class='fab fa-facebook-f' /></a>
              
               
             </Link>
@@ -34,34 +34,27 @@ function Footer() {
               target='_blank'
               aria-label='Instagram'
             >
-            <a href='www.facebook.com' />
-              <i class='fab fa-instagram' />
+              <a href="https://www.instagram.com/melcleaning365/"><i class='fab fa-instagram' /></a>
+           
             </Link>
+           
             <Link
-              class='social-icon-link youtube'
+              class='social-icon-link gmail'
               to='/'
               target='_blank'
-              aria-label='Youtube'
+              aria-label='Gmail'
             >
-            <a href="https://google.com"><i  class='fab fa-youtube'/></a>
-            
+              <a href="https://www.gmail.com"><i class='fas fa-mail-bulk' /></a>
               
             </Link>
             <Link
-              class='social-icon-link twitter'
+              class='social-icon-link phone'
               to='/'
               target='_blank'
-              aria-label='Twitter'
+              aria-label='Phone'
             >
-              <i class='fab fa-twitter' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='LinkedIn'
-            >
-              <i class='fab fa-linkedin' />
+              <a href="tel:9087648409"><i class='fas fa-phone-square' /></a>
+              
             </Link>
           </div>
         </div>
