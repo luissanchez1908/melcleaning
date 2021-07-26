@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "//luissanchez1908.github.io/melcleaning/static/css/main.eb69ae70.chunk.css",
-    "main.js": "//luissanchez1908.github.io/melcleaning/static/js/main.ec7a032a.chunk.js",
-    "main.js.map": "//luissanchez1908.github.io/melcleaning/static/js/main.ec7a032a.chunk.js.map",
+    "main.css": "//luissanchez1908.github.io/melcleaning/static/css/main.18335494.chunk.css",
+    "main.js": "//luissanchez1908.github.io/melcleaning/static/js/main.e03a9920.chunk.js",
+    "main.js.map": "//luissanchez1908.github.io/melcleaning/static/js/main.e03a9920.chunk.js.map",
     "runtime-main.js": "//luissanchez1908.github.io/melcleaning/static/js/runtime-main.a713ab43.js",
     "runtime-main.js.map": "//luissanchez1908.github.io/melcleaning/static/js/runtime-main.a713ab43.js.map",
     "static/js/2.9087d2c1.chunk.js": "//luissanchez1908.github.io/melcleaning/static/js/2.9087d2c1.chunk.js",
     "static/js/2.9087d2c1.chunk.js.map": "//luissanchez1908.github.io/melcleaning/static/js/2.9087d2c1.chunk.js.map",
     "index.html": "//luissanchez1908.github.io/melcleaning/index.html",
-    "static/css/main.eb69ae70.chunk.css.map": "//luissanchez1908.github.io/melcleaning/static/css/main.eb69ae70.chunk.css.map",
+    "static/css/main.18335494.chunk.css.map": "//luissanchez1908.github.io/melcleaning/static/css/main.18335494.chunk.css.map",
     "static/js/2.9087d2c1.chunk.js.LICENSE.txt": "//luissanchez1908.github.io/melcleaning/static/js/2.9087d2c1.chunk.js.LICENSE.txt",
     "static/media/clean-1.4de21338.JPG": "//luissanchez1908.github.io/melcleaning/static/media/clean-1.4de21338.JPG",
     "static/media/clean-2.c7b7b4a7.JPG": "//luissanchez1908.github.io/melcleaning/static/media/clean-2.c7b7b4a7.JPG",
@@ -16,13 +16,12 @@
     "static/media/clean-4.c7b7b4a7.JPG": "//luissanchez1908.github.io/melcleaning/static/media/clean-4.c7b7b4a7.JPG",
     "static/media/clean-5.256906fc.JPG": "//luissanchez1908.github.io/melcleaning/static/media/clean-5.256906fc.JPG",
     "static/media/clean-6.31933985.JPG": "//luissanchez1908.github.io/melcleaning/static/media/clean-6.31933985.JPG",
-    "static/media/HeroSection.css": "//luissanchez1908.github.io/melcleaning/static/media/img-1.b43be221.jpg",
     "static/media/video-1.3c4ef333.mp4": "//luissanchez1908.github.io/melcleaning/static/media/video-1.3c4ef333.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.a713ab43.js",
     "static/js/2.9087d2c1.chunk.js",
-    "static/css/main.eb69ae70.chunk.css",
-    "static/js/main.ec7a032a.chunk.js"
+    "static/css/main.18335494.chunk.css",
+    "static/js/main.e03a9920.chunk.js"
   ]
 }
